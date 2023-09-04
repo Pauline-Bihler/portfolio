@@ -21,7 +21,7 @@ function Contact() {
             </p>
             <ul className="contact-links">
               <li className="contact-item">Email: pauline.erika5@gmail.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">Phone: +43 680 2326 407</li>
             </ul>
           </div>
         </div>
