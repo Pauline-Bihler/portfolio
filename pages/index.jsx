@@ -18,8 +18,7 @@ function Home() {
               Hi, it's Pauline Bihler!
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+            Cat mama from the tropical islands of Philippines. Former production designer, turned teacher and now a prospective developer.
             </p>
 
             <Link href="/contact" className="cta">
