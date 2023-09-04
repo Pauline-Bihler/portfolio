@@ -20,7 +20,7 @@ function Contact() {
               Please contact me if you have any questions. Looking forward to your email or call!
             </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
+              <li className="contact-item">Email: pauline.erika5@gmail.com</li>
               <li className="contact-item">Phone: +6212344321007</li>
             </ul>
           </div>
