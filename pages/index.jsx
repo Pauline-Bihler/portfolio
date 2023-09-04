@@ -18,7 +18,9 @@ function Home() {
               Hi, it's Pauline Bihler!
             </h1>
             <p className="description">
-            Cat mama from the tropical islands of Philippines. Former production designer, turned teacher and now a prospective developer.
+              Cat mama from the tropical islands of Philippines. Former
+              production designer, turned teacher and now a prospective
+              developer.
             </p>
 
             <Link href="/contact" className="cta">
